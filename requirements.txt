@@ -1,0 +1,6 @@
+datasetsforecast==0.0.8
+fastparquet==2024.5.0
+isort==5.13.2
+jupyter==1.1.1
+loguru==0.7.2
+ipykernel==6.4.1
