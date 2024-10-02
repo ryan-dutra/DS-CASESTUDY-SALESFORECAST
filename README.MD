@@ -73,5 +73,5 @@ Download the git repo and create a compressed copy to email to candidates.
 
 ```
     zip -ur DS-CaseStudy-SalesForecast.zip DS-CaseStudy-SalesForecast
-     du -h --max-depth=0 DS-CaseStudy-SalesForecast.zip
+    du -h --max-depth=0 DS-CaseStudy-SalesForecast.zip
 ```
